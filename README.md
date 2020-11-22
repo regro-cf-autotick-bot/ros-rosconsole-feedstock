@@ -5,7 +5,7 @@ Home: http://www.ros.org/wiki/rosconsole
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ros-rosconsole-feedstock/blob/master/LICENSE.txt)
 
 Summary: ROS console output library.
 
